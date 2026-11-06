@@ -33,7 +33,7 @@
 
   // ============================== CONFIG ==============================
   const ENDPOINT  = "https://script.google.com/macros/s/AKfycbwd_lpy7Rj_ltrhuai1SktAXT-KjFFUBIbby26f3_tZiCA_Ksd5fRTp4ncM5Xdl_EPQTQ/exec";
-  const COURSE    = "AS Economics 9708";
+  const COURSE    = "A Level Economics";
   const LOGIN_URL = "https://sisb-humanities.github.io/SISB-Econ/";
   // These two must match the quiz app.
   const LOGIN_KEY  = "sisb_econ_student";
